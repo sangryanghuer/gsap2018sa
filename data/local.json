@@ -1,47 +1,26 @@
 [
-   {
-        "name": "SangMin Lee(Part1 Leader)",
-        "title": "S/W Programer(Computer Science)",
-        "profile":    "- ’16 ~ ’18 : Samsung Cloud development.<br>" 
-					+ "- ’15 ~ ’16 : IMS(VOLTE) development.<br>" 
-					+ "- ’12 ~ ’15 : Factory app development.<br>" 
-					+ "- ’11 ~ ‘12 : Fota development.<br>" 
-					+ "- ’09 ~ ’11 : RIL(Radio Interface layer)<br>"  
-					+ "			  Development.<br>" 
-					+ "Matching Mentee: Picadoo<br>" 
-					+ "",
-		"image": "p1_leesangmin.jpg"
+    {
+        "name": "Kay Garland",
+        "title": "Lead Designer",
+        "profile": "Hello. I’m Seth, a UI & UX Designer. I consider myself a craftsman, and I’m someone who cares about the things he makes. I design primarily for user experience but, being a considerate developer, I also consider accessibility, performance, semantics and scalability.",
+        "image": "2.jpg"
     },
     {
-        "name": "Hyeonji Kim",
-        "title": "S&M(Economics)",
-        "profile":    "- '14~’18 : Marketing(CRM) (SEC)   <br>" 
-					+ "- ‘12~’13 : B2C sales management (SEC)<br>" 
-					+ "Matching Mentee: iThemba Curios<br>" 
-					+ "",
-		
-        "image": "p1_HyeonjiKim.jpg"
+        "name": "Kay Garland",
+        "title": "Lead Designer",
+        "profile": "Hello. I’m Seth, a UI & UX Designer. I consider myself a craftsman, and I’m someone who cares about the things he makes. I design primarily for user experience but, being a considerate developer, I also consider accessibility, performance, semantics and scalability.",
+        "image": "1.jpg"
     },
     {
-        "name": "Seonwoo Yoo",
-        "title": "Design Strategist(Product Design & Biz Administration",
-        "profile":    "- '14~’18 : User Experience," 
-                    + "            Corporate Design Center<br>" 
-					+ "- ‘13~’15 : Product Strategy<br>" 
-					+ "            Visual Display Division<br>" 
-					+ "- ‘10~’13 : Business consultant<br>" 
-					+ "            Communication,Media & High Tech., Accenture<br>" 
-					+ "- ‘05~’09 : Product Designer & Design<br>" 
-					+ "            Strategist,Mobile Communication Lab, LG Electronics<br>" 
-					+ "Matching Mentee: iThemba Curios<br>" 
-					+ "",
-		"image": "p1_SeonwooYoo.jpg"
+        "name": "Kay Garland",
+        "title": "Lead Designer",
+        "profile": "Hello. I’m Seth, a UI & UX Designer. I consider myself a craftsman, and I’m someone who cares about the things he makes. I design primarily for user experience but, being a considerate developer, I also consider accessibility, performance, semantics and scalability.",
+        "image": "3.jpg"
     },
-
-    {
+     {
         "name": "Dummy",
         "title": "TBD",
         "profile": "TBD",
         "image": "dummy.jpg"
     }
-]
+] 
